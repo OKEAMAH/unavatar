@@ -126,7 +126,7 @@
     "router-http": "~1.0.7",
     "send-http": "~1.0.6",
     "serve-static": "~1.15.0",
-    "srcset": "~4.0.0",
+    "srcset": "~5.0.1",
     "tangerine": "~1.5.4",
     "top-crawler-agents": "~1.0.26",
     "top-user-agents": "~2.1.20",
