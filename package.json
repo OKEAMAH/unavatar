@@ -120,7 +120,7 @@
     "p-any": "~3.0.0",
     "p-cancelable": "4.0.1",
     "p-reflect": "~2.1.0",
-    "p-timeout": "~4.1.0",
+    "p-timeout": "~6.1.2",
     "puppeteer": "~22.8.0",
     "rate-limiter-flexible": "~5.0.0",
     "router-http": "~1.0.7",
