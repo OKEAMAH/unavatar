@@ -97,7 +97,7 @@
     "@microlink/ua": "~1.2.3",
     "async-memoize-one": "~1.1.7",
     "browserless": "~10.5.0",
-    "cacheable-lookup": "~6.1.0",
+    "cacheable-lookup": "~7.0.0",
     "cacheable-response": "~2.10.1",
     "cheerio": "~1.0.0-rc.12",
     "cors": "~2.8.5",
